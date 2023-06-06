@@ -12,7 +12,7 @@ body{
   min-height: 100vh;
   align-items: center;
   background: rgb(195,184,34);
-background: linear-gradient(0deg, rgba(195,184,34,1) 0%, rgba(45,253,113,1) 100%);
+  background: linear-gradient(0deg, rgba(195,184,34,1) 0%, rgba(45,253,113,1) 100%);
   justify-content: center;
 }
 .wrapper{
@@ -62,7 +62,7 @@ header p{
   color: #fff;
   cursor: pointer;
   margin-top: 20px;
-  font-size: 17px;
+  font-size: 17px
   background: rgb(195,184,34);
 }
 .qr-code{
