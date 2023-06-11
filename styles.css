@@ -63,7 +63,7 @@ header p{
   cursor: pointer;
   margin-top: 20px;
   font-size: 17px
-  background: rgb(195,184,34);
+  background-color: #C3B822;
 }
 .qr-code{
   opacity: 0;
