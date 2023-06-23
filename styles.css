@@ -63,7 +63,11 @@ header p{
   cursor: pointer;
   margin-top: 20px;
   font-size: 17px
-  background-color: #C3B822;
+  background-color: #000000;
+}
+.form button : hover{
+  background-color: #FFED00;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.13);
 }
 .qr-code{
   opacity: 0;
